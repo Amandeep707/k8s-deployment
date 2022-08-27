@@ -2,7 +2,7 @@
 
 Step1 : Run minikube cluster
 
-Step2 : Run script 1_create_docker_images.sh to create 4 docker images one for each application(cart, payment, shop and checkout)
+Step2 : Clone this repository and Run script 1_create_docker_images.sh to create 4 docker images one for each application(cart, payment, shop and checkout)
 
 Step3 : Run helm chart to deploy application.
 
